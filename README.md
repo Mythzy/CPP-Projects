@@ -1,6 +1,4 @@
 # CPP-Projects
-All of my C++ Projects in one area.
-
-Feel free to use this code for personal projects or just to mess around with, I dont really mind. No credit needed, this was all uploaded primarily for fun.
+A simple terminal manager to put all your social media links in. Working on a highlighted text feature using the arrow keys. Attached below is a gif demonstrating it. (Gif being developed as you read this)
 
 ![Alt Text](https://media.giphy.com/media/XEbofifybDQqclDt1E/giphy.gif)
